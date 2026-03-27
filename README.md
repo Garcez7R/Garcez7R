@@ -4,9 +4,7 @@
 
 <h1 align="center">Rafael Garcez</h1>
 
-<p align="center">
-  Cloud & Cybersecurity | AWS Certified Cloud Practitioner | Blue Team, SOC and Secure Infrastructure
-</p>
+<h2 align="center"><strong>Cloud & Cybersecurity | AWS Certified Cloud Practitioner | Blue Team, SOC and Secure Infrastructure</strong></h2>
 
 <p align="center">
   <a href="https://github.com/Garcez7R">
@@ -19,9 +17,9 @@
 
 ## Sobre mim
 
-Profissional de TI com mais de 15 anos de experiencia em infraestrutura, Linux e operacoes de redes, com vivencia em ambientes NOC e SOC. Essa base pratica me deu uma visao solida sobre operacao, disponibilidade, riscos e resposta a incidentes, que hoje direciono para minha transicao e consolidacao em Cybersecurity e Cloud.
+Profissional de TI com mais de 15 anos de experiência em infraestrutura, Linux e operações de redes, com vivência em ambientes NOC e SOC. Essa base prática me deu uma visão sólida sobre operação, disponibilidade, riscos e resposta a incidentes, que hoje direciono para minha transição e consolidação em Cybersecurity e Cloud.
 
-Atualmente aprofundo minhas habilidades por meio de trilhas praticas, certificacoes e projetos autorais, buscando unir experiencia operacional com competencias modernas para atuar na protecao de ambientes digitais e na construcao de infraestruturas seguras.
+Atualmente aprofundo minhas habilidades por meio de trilhas práticas, certificações e projetos autorais, buscando unir experiência operacional com competências modernas para atuar na proteção de ambientes digitais e na construção de infraestruturas seguras.
 
 ## Foco profissional
 
@@ -29,14 +27,14 @@ Atualmente aprofundo minhas habilidades por meio de trilhas praticas, certificac
 - Cloud Security com AWS
 - Blue Team, SOC, SIEM e EDR
 - Redes e infraestrutura segura
-- Automacao e operacao cloud
+- Automação e operação cloud
 
 ## Em desenvolvimento agora
 
 - AWS e fundamentos de arquitetura em nuvem
-- Cloud Security e praticas de hardening
+- Cloud Security e práticas de hardening
 - SIEM, EDR e mentalidade Blue Team
-- Automacao, observabilidade e operacao enxuta
+- Automação, observabilidade e operação enxuta
 
 ## Stack principal
 
@@ -58,14 +56,14 @@ Atualmente aprofundo minhas habilidades por meio de trilhas praticas, certificac
   <img src="https://img.shields.io/badge/Virtualization-Infrastructure-6B7280?style=for-the-badge" alt="Virtualization" />
 </p>
 
-- Sistemas operacionais: Linux, Windows Server e administracao de ambientes corporativos
-- Redes e seguranca: Active Directory, GPOs, VPN, certificados digitais, pfSense, segmentacao e hardening
-- Observabilidade e operacao: Zabbix, GLPI, monitoramento, auditoria e suporte a ambientes NOC/SOC
-- Backup e continuidade: BorgBackup, tunelamento SSH, estrategia 3-2-1, deduplicacao e restauracao
-- Automacao e ferramentas: Python, Shell Script, CLI Linux, Git e SQL basico
-- Cloud e plataforma: AWS, Google Cloud, Oracle Cloud, Cloudflare e fundamentos de seguranca em nuvem
+- Sistemas operacionais: Linux, Windows Server e administração de ambientes corporativos
+- Redes e segurança: Active Directory, GPOs, VPN, certificados digitais, pfSense, segmentação e hardening
+- Observabilidade e operação: Zabbix, GLPI, monitoramento, auditoria e suporte a ambientes NOC/SOC
+- Backup e continuidade: BorgBackup, tunelamento SSH, estratégia 3-2-1, deduplicação e restauração
+- Automação e ferramentas: Python, Shell Script, CLI Linux, Git e SQL básico
+- Cloud e plataforma: AWS, Google Cloud, Oracle Cloud, Cloudflare e fundamentos de segurança em nuvem
 
-## Certificacoes e badges
+## Certificações e badges
 
 ### Destaques
 
@@ -99,7 +97,7 @@ Atualmente aprofundo minhas habilidades por meio de trilhas praticas, certificac
 - SailPoint Identity Security Leader Credential
 - OPSWAT Introduction to Critical Infrastructure Protection
 
-### Trilhas tecnicas complementares
+### Trilhas técnicas complementares
 
 - Cisco Junior Cybersecurity Analyst Career Path
 - Cisco Network Technician Career Path
@@ -108,48 +106,48 @@ Atualmente aprofundo minhas habilidades por meio de trilhas praticas, certificac
 - API Security studies at APIsec University
 - Databricks fundamentals, New Relic foundation and MongoDB core concepts
 
-### Base de formacao tecnica
+### Base de formação técnica
 
 - Cisco: Introduction to Cybersecurity, Networking Basics, CCNA Introduction to Networks, Endpoint Security, Network Defense, Ethical Hacker, Industrial Cybersecurity Essentials
 - IBM SkillsBuild: Cloud Security, Vulnerability Management, System and Network Security, Security Operations and Incident Response
 - Fortinet: Threat Landscape, Getting Started in Cybersecurity and Technical Introduction to Cybersecurity
 - Outros: English for IT, IoT, Modern AI, Digital Awareness and Computer Hardware Basics
 
-## Experiencia de impacto
+## Experiência de impacto
 
-- Implantacao e administracao de servidores Linux, Windows Server, AD/DC e GPOs em ambiente corporativo
-- Implementacao de acesso remoto seguro com OpenVPN, certificados digitais, pfSense e controle de permissao
-- Estruturacao de monitoramento com Zabbix, integracao com GLPI e resposta a falhas operacionais
-- Desenvolvimento de estrategia de backup 3-2-1 com BorgBackup, tunelamento SSH e deduplicacao
-- Aplicacao de mitigacao de riscos, auditoria de acessos e seguranca perimetral em infraestrutura real
+- Implantação e administração de servidores Linux, Windows Server, AD/DC e GPOs em ambiente corporativo
+- Implementação de acesso remoto seguro com OpenVPN, certificados digitais, pfSense e controle de permissão
+- Estruturação de monitoramento com Zabbix, integração com GLPI e resposta a falhas operacionais
+- Desenvolvimento de estratégia de backup 3-2-1 com BorgBackup, tunelamento SSH e deduplicação
+- Aplicação de mitigação de riscos, auditoria de acessos e segurança perimetral em infraestrutura real
 
 ## Projetos em destaque
 
-### Casos tecnicos de infraestrutura e seguranca
+### Casos técnicos de infraestrutura e segurança
 
-- Interfonia digital com Asterisk, integrando softphones, apps VoIP e rede dedicada
+- Interfonia digital com Asterisk, integrando softphones, aplicativos VoIP e rede dedicada
 - VPN corporativa com OpenVPN + Zentyal + pfSense + certificados digitais
-- Backup seguro com BorgBackup, VPN SSH, redundancia e restauracao rapida
-- Operacao e suporte a ambientes com monitoramento, impressao corporativa e infraestrutura critica
+- Backup seguro com BorgBackup, VPN SSH, redundância e restauração rápida
+- Operação e suporte a ambientes com monitoramento, impressão corporativa e infraestrutura crítica
 
 ### [TranspSaude](https://github.com/Garcez7R/transpsaude)
-PWA para apoio a operacao do transporte em saude, com fluxo de solicitacao, analise, distribuicao operacional e consulta publica. Estruturado com Cloudflare Pages, Functions e D1.
+PWA para apoio à operação do transporte em saúde, com fluxo de solicitação, análise, distribuição operacional e consulta pública. Estruturado com Cloudflare Pages, Functions e D1.
 
 ### [TEKA](https://github.com/Garcez7R/mvp-teka)
-Marketplace para conectar leitores e sebos, com catalogo, estoque, papeis de usuario, scanner por ISBN, OCR, PWA e arquitetura pensada para crescimento com foco em UX e compliance.
+Marketplace para conectar leitores e sebos, com catálogo, estoque, papéis de usuário, scanner por ISBN, OCR, PWA e arquitetura pensada para crescimento com foco em UX e compliance.
 
 ### [Konnektx](https://github.com/Garcez7R/Konnektx)
-PWA para barbearias, saloes e profissionais de beleza, com pagina publica, agenda, fidelizacao e base preparada para evolucao com Cloudflare Worker.
+PWA para barbearias, salões e profissionais de beleza, com página pública, agenda, fidelização e base preparada para evolução com Cloudflare Worker.
 
-## Experiencia e comunidade
+## Experiência e comunidade
 
-- Facilitador do Google Cloud Arcade 2026, apoiando participantes em laboratorios praticos de Kubernetes, BigQuery, IA/ML e Cloud Security
-- Voluntariado em iniciativas de comunidade como a CYBERDIMENSION, com foco em aprendizagem colaborativa e seguranca
-- Evolucao continua com foco em Cloud, Cybersecurity, Blue Team e ambientes operacionais seguros
+- Facilitador do Google Cloud Arcade 2026, apoiando participantes em laboratórios práticos de Kubernetes, BigQuery, IA/ML e Cloud Security
+- Voluntariado em iniciativas de comunidade como a CYBERDIMENSION, com foco em aprendizagem colaborativa e segurança
+- Evolução contínua com foco em Cloud, Cybersecurity, Blue Team e ambientes operacionais seguros
 
 ## Disponibilidade
 
-- Trabalho remoto prioritario
+- Trabalho remoto prioritário
 - Aberto a oportunidades presenciais
 - PCD e aberto a oportunidades inclusivas
 

@@ -4,7 +4,7 @@
 
 <h1 align="center">Rafael Garcez</h1>
 
-<h2 align="center"><strong>Cloud & Cybersecurity | AWS Certified Cloud Practitioner | Blue Team, SOC and Secure Infrastructure</strong></h2>
+<h2 align="center"><strong>Cloud Security | Cybersecurity | AWS Certified Cloud Practitioner | Blue Team | SOC | Secure Infrastructure</strong></h2>
 
 <p align="center">
   <a href="https://github.com/Garcez7R">
@@ -147,6 +147,21 @@ PWA para barbearias, salões e profissionais de beleza, com página pública, ag
 - Facilitador do Google Cloud Arcade 2026, apoiando participantes em laboratórios práticos de Kubernetes, BigQuery, IA/ML e Cloud Security
 - Voluntariado em iniciativas de comunidade como a CYBERDIMENSION, com foco em aprendizagem colaborativa e segurança
 - Evolução contínua com foco em Cloud, Cybersecurity, Blue Team e ambientes operacionais seguros
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p>
+  <img src="https://img.shields.io/github/followers/Garcez7R?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Reposit%C3%B3rios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FGarcez7R" alt="Repositórios públicos" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/stars/Garcez7R/transpsaude?style=for-the-badge&logo=github&label=Stars%20TranspSaude" alt="Stars TranspSaude" />
+  <img src="https://img.shields.io/github/stars/Garcez7R/mvp-teka?style=for-the-badge&logo=github&label=Stars%20TEKA" alt="Stars TEKA" />
+  <img src="https://img.shields.io/github/stars/Garcez7R/Konnektx?style=for-the-badge&logo=github&label=Stars%20Konnektx" alt="Stars Konnektx" />
+</p>
 
 ---
 

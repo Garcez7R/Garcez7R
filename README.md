@@ -5,7 +5,7 @@
 <h1 align="center">Rafael Garcez</h1>
 
 <p align="center">
-  Cloud, Cybersecurity and Full-Stack Projects
+  Cloud & Cybersecurity | AWS Certified Cloud Practitioner | Blue Team, SOC and Secure Infrastructure
 </p>
 
 <p align="center">
@@ -19,12 +19,22 @@
 
 ## Sobre mim
 
-Atuo na interseccao entre infraestrutura, cloud e seguranca, com base pratica em redes e foco crescente em arquiteturas modernas, automacao e aplicacoes web de producao.
+Profissional de TI com mais de 15 anos de experiencia em infraestrutura, Linux e operacoes de redes, com vivencia em ambientes NOC e SOC. Essa base pratica me deu uma visao solida sobre operacao, disponibilidade, riscos e resposta a incidentes, que hoje direciono para minha transicao e consolidacao em Cybersecurity e Cloud.
 
-Hoje concentro meus estudos e projetos em:
+Atualmente aprofundo minhas habilidades por meio de trilhas praticas, certificacoes e projetos autorais, buscando unir experiencia operacional com competencias modernas para atuar na protecao de ambientes digitais e na construcao de infraestruturas seguras.
+
+## Foco profissional
+
+- Cybersecurity
+- Cloud Security com AWS
+- Blue Team, SOC, SIEM e EDR
+- Redes e infraestrutura segura
+- Automacao e operacao cloud
+
+## Em desenvolvimento agora
 
 - AWS e fundamentos de arquitetura em nuvem
-- Cloud Security e boas praticas de hardening
+- Cloud Security e praticas de hardening
 - PWAs e sistemas full-stack com Cloudflare
 - Automacao, observabilidade e operacao enxuta
 
@@ -44,6 +54,8 @@ Hoje concentro meus estudos e projetos em:
   <img src="https://img.shields.io/badge/Fortinet-Certified_Associate_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet Certified Associate Cybersecurity" />
   <img src="https://img.shields.io/badge/Oracle-OCI_Foundations_Associate-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure Foundations Associate" />
 </p>
+
+As badges acima estao destacadas em formato visual. Posso substituir ou complementar por imagens oficiais do Credly assim que voce me passar os links individuais ou os arquivos.
 
 ### Cloud
 
@@ -106,11 +118,11 @@ Marketplace para conectar leitores e sebos, com catalogo, estoque, papeis de usu
 ### [Konnektx](https://github.com/Garcez7R/Konnektx)
 PWA para barbearias, saloes e profissionais de beleza, com pagina publica, agenda, fidelizacao e base preparada para evolucao com Cloudflare Worker.
 
-## Foco atual
+## Experiencia e comunidade
 
-- Evoluir como profissional de Cloud e Cybersecurity
-- Consolidar portfolio com projetos de impacto real
-- Aprofundar arquitetura, seguranca e deploy em ambientes cloud
+- Facilitador do Google Cloud Arcade 2026, apoiando participantes em laboratorios praticos de Kubernetes, BigQuery, IA/ML e Cloud Security
+- Voluntariado em iniciativas de comunidade como a CYBERDIMENSION, com foco em aprendizagem colaborativa e seguranca
+- Evolucao continua com foco em Cloud, Cybersecurity, Blue Team e ambientes operacionais seguros
 
 ## Contato
 

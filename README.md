@@ -2,9 +2,13 @@
   <img src="./assets/banner.svg" alt="Garcez7R banner" width="100%" />
 </p>
 
-<h1 align="center">Rafael Garcez</h1>
+<div align="center">
 
-<h2 align="center"><strong>Cloud Security | Cybersecurity | AWS Certified Cloud Practitioner | Blue Team | SOC | Secure Infrastructure</strong></h2>
+# Rafael Garcez
+
+## **Cloud Security | Cybersecurity | AWS Certified Cloud Practitioner | Blue Team | SOC | Secure Infrastructure**
+
+</div>
 
 <p align="center">
   <a href="https://github.com/Garcez7R">
@@ -17,13 +21,18 @@
 
 ---
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ## 👨‍💻 Sobre mim
 
 Profissional de TI com mais de 15 anos de experiência em infraestrutura, Linux e operações de redes, com vivência em ambientes NOC e SOC. Essa base prática me deu uma visão sólida sobre operação, disponibilidade, riscos e resposta a incidentes, que hoje direciono para minha transição e consolidação em Cybersecurity e Cloud.
 
 Atualmente aprofundo minhas habilidades por meio de trilhas práticas, certificações e projetos autorais, buscando unir experiência operacional com competências modernas para atuar na proteção de ambientes digitais e na construção de infraestruturas seguras.
 
----
+</td>
+<td width="42%" valign="top">
 
 ## 🎯 Foco profissional
 
@@ -32,6 +41,10 @@ Atualmente aprofundo minhas habilidades por meio de trilhas práticas, certifica
 - Blue Team, SOC, SIEM e EDR
 - Redes e infraestrutura segura
 - Automação e operação cloud
+
+</td>
+</tr>
+</table>
 
 ---
 

@@ -81,7 +81,8 @@ Atualmente aprofundo minhas habilidades por meio de trilhas práticas, certifica
 - Redes e segurança: Active Directory, GPOs, VPN, certificados digitais, pfSense, segmentação e hardening
 - Observabilidade e operação: Zabbix, GLPI, monitoramento, auditoria e suporte a ambientes NOC/SOC
 - Backup e continuidade: BorgBackup, tunelamento SSH, estratégia 3-2-1, deduplicação e restauração
-- Automação e ferramentas: Python, Shell Script, CLI Linux, Git e SQL básico
+- Automação e ferramentas: Python, Shell Script, CLI Linux, Git e SQL
+- Banco de dados: fundamentos de modelagem, SQL, PostgreSQL, MySQL e administração de banco de dados
 - Cloud e plataforma: AWS, Google Cloud, Oracle Cloud, Cloudflare e fundamentos de segurança em nuvem
 
 ---
@@ -106,6 +107,7 @@ Atualmente aprofundo minhas habilidades por meio de trilhas práticas, certifica
 ### Outras certificações e trilhas
 
 - AWS re/Start Graduate
+- IFRS: Administrador de Banco de Dados, 200 horas, com conteúdos de SQL, PostgreSQL, MySQL e administração de banco de dados
 - Google Cloud Cybersecurity Certificate
 - Fortinet Certified Fundamentals Cybersecurity
 - ISC2 Candidate

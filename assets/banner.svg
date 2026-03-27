@@ -1,0 +1,47 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="360" rx="24" fill="#08111F"/>
+  <rect width="1280" height="360" rx="24" fill="url(#paint0_linear)"/>
+  <circle cx="1120" cy="70" r="220" fill="url(#paint1_radial)" fill-opacity="0.55"/>
+  <circle cx="210" cy="320" r="220" fill="url(#paint2_radial)" fill-opacity="0.35"/>
+
+  <path d="M0 290C115 250 160 300 255 270C345 242 392 172 484 170C590 168 621 267 723 275C837 284 903 197 999 175C1095 153 1180 189 1280 129" stroke="#5EEAD4" stroke-opacity="0.25" stroke-width="2"/>
+  <path d="M0 244C115 204 188 253 277 233C367 213 396 122 494 116C594 110 635 217 738 228C845 239 907 160 1010 141C1114 122 1195 146 1280 108" stroke="#93C5FD" stroke-opacity="0.2" stroke-width="2"/>
+
+  <g opacity="0.8">
+    <rect x="766" y="72" width="388" height="188" rx="18" fill="#0F1C2E" fill-opacity="0.85" stroke="#1E3A5F"/>
+    <text x="798" y="122" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Core Focus</text>
+    <text x="798" y="158" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="18">Cloud Architecture</text>
+    <text x="798" y="188" fill="#99F6E4" font-family="Arial, Helvetica, sans-serif" font-size="18">Cybersecurity Mindset</text>
+    <text x="798" y="218" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="18">Full-Stack PWAs</text>
+    <text x="798" y="248" fill="#FDBA74" font-family="Arial, Helvetica, sans-serif" font-size="18">AWS and Cloudflare Projects</text>
+  </g>
+
+  <text x="78" y="132" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">Rafael Garcez</text>
+  <text x="78" y="176" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">Cloud | Cybersecurity | Web Applications</text>
+  <text x="78" y="226" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="20">Building practical systems with infrastructure thinking,</text>
+  <text x="78" y="256" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="20">security awareness and product-oriented execution.</text>
+
+  <rect x="78" y="287" width="146" height="34" rx="17" fill="#0F766E"/>
+  <rect x="236" y="287" width="120" height="34" rx="17" fill="#1D4ED8"/>
+  <rect x="368" y="287" width="118" height="34" rx="17" fill="#EA580C"/>
+
+  <text x="105" y="309" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">AWS</text>
+  <text x="263" y="309" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Security</text>
+  <text x="392" y="309" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">PWA</text>
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="78" y1="30" x2="1244" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1730"/>
+      <stop offset="0.5" stop-color="#0A223D"/>
+      <stop offset="1" stop-color="#102A43"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1120 70) rotate(90) scale(220)">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 320) rotate(90) scale(220)">
+      <stop stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

@@ -49,8 +49,7 @@
   <text x="780" y="176" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="18">Blue Team, SOC, SIEM e EDR</text>
   <text x="780" y="208" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="18">Linux, Windows Server, AD, VPN, pfSense</text>
   <text x="780" y="240" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="18">Monitoramento, backup, automação e hardening</text>
-  <text x="780" y="286" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">Minimalismo técnico com atmosfera cyberpunk.</text>
-
+  
   <defs>
     <linearGradient id="bgGlow" x1="74" y1="24" x2="1229" y2="357" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07101F"/>

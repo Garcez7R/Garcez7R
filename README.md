@@ -66,4 +66,6 @@ PWA para barbearias, saloes e profissionais de beleza, com pagina publica, agend
 
 <p>
   <a href="https://github.com/Garcez7R">GitHub</a>
+  •
+  <a href="https://www.linkedin.com/in/rgarcez7/">LinkedIn</a>
 </p>

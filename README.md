@@ -76,8 +76,6 @@ Atualmente aprofundo minhas habilidades por meio de trilhas praticas, certificac
   <img src="https://img.shields.io/badge/Oracle-OCI_Foundations_Associate-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure Foundations Associate" />
 </p>
 
-As badges acima estao destacadas em formato visual. Posso substituir ou complementar por imagens oficiais do Credly assim que voce me passar os links individuais ou os arquivos.
-
 ### Cloud
 
 - AWS Certified Cloud Practitioner

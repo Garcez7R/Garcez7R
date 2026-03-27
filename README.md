@@ -14,7 +14,7 @@
   </a>
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS badge" />
   <img src="https://img.shields.io/badge/Focus-Cloud_Security-0b7285?style=for-the-badge" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Building-PWA_%26_Cloud_Apps-1d4ed8?style=for-the-badge" alt="Building badge" />
+  <img src="https://img.shields.io/badge/Blue_Team-SOC_%26_Secure_Infrastructure-1d4ed8?style=for-the-badge" alt="Blue Team badge" />
 </p>
 
 ## Sobre mim
@@ -35,7 +35,7 @@ Atualmente aprofundo minhas habilidades por meio de trilhas praticas, certificac
 
 - AWS e fundamentos de arquitetura em nuvem
 - Cloud Security e praticas de hardening
-- PWAs e sistemas full-stack com Cloudflare
+- SIEM, EDR e mentalidade Blue Team
 - Automacao, observabilidade e operacao enxuta
 
 ## Stack principal
@@ -117,14 +117,22 @@ As badges acima estao destacadas em formato visual. Posso substituir ou compleme
 - Fortinet: Threat Landscape, Getting Started in Cybersecurity and Technical Introduction to Cybersecurity
 - Outros: English for IT, IoT, Modern AI, Digital Awareness and Computer Hardware Basics
 
-## Estatisticas
+## Experiencia de impacto
 
-- Repositorios com foco em Cloud, Cybersecurity e PWAs publicados no GitHub
-- Portfolio ativo com projetos reais em Cloudflare, automacao e aplicacoes web
-- Certificacoes e trilhas tecnicas em AWS, Cisco, Fortinet, Google Cloud e seguranca
-- Atividade continua de estudos, laboratorio e evolucao profissional
+- Implantacao e administracao de servidores Linux, Windows Server, AD/DC e GPOs em ambiente corporativo
+- Implementacao de acesso remoto seguro com OpenVPN, certificados digitais, pfSense e controle de permissao
+- Estruturacao de monitoramento com Zabbix, integracao com GLPI e resposta a falhas operacionais
+- Desenvolvimento de estrategia de backup 3-2-1 com BorgBackup, tunelamento SSH e deduplicacao
+- Aplicacao de mitigacao de riscos, auditoria de acessos e seguranca perimetral em infraestrutura real
 
 ## Projetos em destaque
+
+### Casos tecnicos de infraestrutura e seguranca
+
+- Interfonia digital com Asterisk, integrando softphones, apps VoIP e rede dedicada
+- VPN corporativa com OpenVPN + Zentyal + pfSense + certificados digitais
+- Backup seguro com BorgBackup, VPN SSH, redundancia e restauracao rapida
+- Operacao e suporte a ambientes com monitoramento, impressao corporativa e infraestrutura critica
 
 ### [TranspSaude](https://github.com/Garcez7R/transpsaude)
 PWA para apoio a operacao do transporte em saude, com fluxo de solicitacao, analise, distribuicao operacional e consulta publica. Estruturado com Cloudflare Pages, Functions e D1.
@@ -141,10 +149,18 @@ PWA para barbearias, saloes e profissionais de beleza, com pagina publica, agend
 - Voluntariado em iniciativas de comunidade como a CYBERDIMENSION, com foco em aprendizagem colaborativa e seguranca
 - Evolucao continua com foco em Cloud, Cybersecurity, Blue Team e ambientes operacionais seguros
 
+## Disponibilidade
+
+- Trabalho remoto prioritario
+- Aberto a oportunidades presenciais
+- PCD e aberto a oportunidades inclusivas
+
 ## Contato
 
 <p>
   <a href="https://github.com/Garcez7R">GitHub</a>
   •
   <a href="https://www.linkedin.com/in/rgarcez7/">LinkedIn</a>
+  •
+  <a href="mailto:rgs.dba7@gmail.com">Email</a>
 </p>

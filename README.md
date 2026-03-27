@@ -98,14 +98,10 @@ As badges acima estao destacadas em formato visual. Posso substituir ou compleme
 
 ## Estatisticas
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Garcez7R&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcez7R&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Garcez7R&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
+- Repositorios com foco em Cloud, Cybersecurity e PWAs publicados no GitHub
+- Portfolio ativo com projetos reais em Cloudflare, automacao e aplicacoes web
+- Certificacoes e trilhas tecnicas em AWS, Cisco, Fortinet, Google Cloud e seguranca
+- Atividade continua de estudos, laboratorio e evolucao profissional
 
 ## Projetos em destaque
 

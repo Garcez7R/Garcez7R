@@ -99,12 +99,12 @@ As badges acima estao destacadas em formato visual. Posso substituir ou compleme
 ## Estatisticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Garcez7R&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcez7R&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Garcez7R&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcez7R&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Garcez7R&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Garcez7R&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## Projetos em destaque

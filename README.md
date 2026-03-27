@@ -64,6 +64,8 @@ Atualmente aprofundo minhas habilidades por meio de trilhas práticas, certifica
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Linux-Desktop_%26_Server-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
+  <img src="https://img.shields.io/badge/FreeBSD-Systems-C71A36?style=for-the-badge" alt="FreeBSD" />
   <img src="https://img.shields.io/badge/Windows_Server-Admin-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Active_Directory-AD_DC-0F6CBD?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
   <img src="https://img.shields.io/badge/Zabbix-Monitoring-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
@@ -78,7 +80,7 @@ Atualmente aprofundo minhas habilidades por meio de trilhas práticas, certifica
   <img src="https://img.shields.io/badge/Database_Admin-SQL_%7C_PostgreSQL_%7C_MySQL-0F766E?style=for-the-badge" alt="Database Administration" />
 </p>
 
-- Sistemas operacionais: Linux, Windows Server e administração de ambientes corporativos
+- Sistemas operacionais: Linux desktop e server, Windows Server, FreeBSD e administração de ambientes corporativos
 - Redes e segurança: Active Directory, GPOs, VPN, certificados digitais, pfSense, segmentação e hardening
 - Observabilidade e operação: Zabbix, GLPI, monitoramento, auditoria e suporte a ambientes NOC/SOC
 - Backup e continuidade: BorgBackup, tunelamento SSH, estratégia 3-2-1, deduplicação e restauração

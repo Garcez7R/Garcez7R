@@ -161,7 +161,7 @@ PWA para barbearias, salões e profissionais de beleza, com página pública, ag
 ## 🤝 Experiência e comunidade
 
 - Facilitador do Google Cloud Arcade 2026, apoiando participantes em laboratórios práticos de Kubernetes, BigQuery, IA/ML e Cloud Security
-- Voluntariado em iniciativas de comunidade como a CYBERDIMENSION, com foco em aprendizagem colaborativa e segurança
+- Voluntariado em iniciativas de comunidade como a [CYBERDIMENSION](https://www.linkedin.com/company/cyberdimension), com foco em aprendizagem colaborativa e segurança
 - Evolução contínua com foco em Cloud, Cybersecurity, Blue Team e ambientes operacionais seguros
 
 ---

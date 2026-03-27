@@ -60,7 +60,7 @@ Atualmente aprofundo minhas habilidades por meio de trilhas práticas, certifica
 ## 🧰 Stack principal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,linux,ubuntu,debian,windows,python,bash,docker,git,github,sqlite,cloudflare" alt="Core skills" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,linux,ubuntu,debian,windows,python,bash,docker,git,github,sqlite,postgres,mysql,cloudflare" alt="Core skills" />
 </p>
 
 <p>
@@ -75,6 +75,7 @@ Atualmente aprofundo minhas habilidades por meio de trilhas práticas, certifica
   <img src="https://img.shields.io/badge/BorgBackup-3--2--1_Backup-2E7D32?style=for-the-badge" alt="BorgBackup" />
   <img src="https://img.shields.io/badge/Asterisk-VoIP_%26_Interphony-F97316?style=for-the-badge" alt="Asterisk" />
   <img src="https://img.shields.io/badge/Virtualization-Infrastructure-6B7280?style=for-the-badge" alt="Virtualization" />
+  <img src="https://img.shields.io/badge/Database_Admin-SQL_%7C_PostgreSQL_%7C_MySQL-0F766E?style=for-the-badge" alt="Database Administration" />
 </p>
 
 - Sistemas operacionais: Linux, Windows Server e administração de ambientes corporativos

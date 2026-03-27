@@ -41,8 +41,29 @@ Atualmente aprofundo minhas habilidades por meio de trilhas praticas, certificac
 ## Stack principal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,python,bash,docker,git,github,ts,js,react,nodejs,sqlite,cloudflare" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,linux,ubuntu,debian,windows,python,bash,docker,git,github,sqlite,cloudflare" alt="Core skills" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Windows_Server-Admin-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Active_Directory-AD_DC-0F6CBD?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Zabbix-Monitoring-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+  <img src="https://img.shields.io/badge/pfSense-Firewall_%26_VPN-212121?style=for-the-badge" alt="pfSense" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenVPN-Secure_Remote_Access-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN" />
+  <img src="https://img.shields.io/badge/BorgBackup-3--2--1_Backup-2E7D32?style=for-the-badge" alt="BorgBackup" />
+  <img src="https://img.shields.io/badge/Asterisk-VoIP_%26_Interphony-F97316?style=for-the-badge" alt="Asterisk" />
+  <img src="https://img.shields.io/badge/Virtualization-Infrastructure-6B7280?style=for-the-badge" alt="Virtualization" />
+</p>
+
+- Sistemas operacionais: Linux, Windows Server e administracao de ambientes corporativos
+- Redes e seguranca: Active Directory, GPOs, VPN, certificados digitais, pfSense, segmentacao e hardening
+- Observabilidade e operacao: Zabbix, GLPI, monitoramento, auditoria e suporte a ambientes NOC/SOC
+- Backup e continuidade: BorgBackup, tunelamento SSH, estrategia 3-2-1, deduplicacao e restauracao
+- Automacao e ferramentas: Python, Shell Script, CLI Linux, Git e SQL basico
+- Cloud e plataforma: AWS, Google Cloud, Oracle Cloud, Cloudflare e fundamentos de seguranca em nuvem
 
 ## Certificacoes e badges
 
